@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="508d4eea-05f9-4883-9914-a091e8b3acd8" name="Default Changelist" comment="" />
+    <list default="true" id="508d4eea-05f9-4883-9914-a091e8b3acd8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JustTiers/GoodYearTires.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JustTiers/GoodYearTires.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

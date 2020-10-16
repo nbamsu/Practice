@@ -6,6 +6,9 @@ public class GoodYearTires {
         System.out.println("Nothing!!!");
         System.out.println("Who Are YOU!!!");
         System.out.println("ooops!!!");
+        System.out.println("Can you do it faster?");
+        System.out.println("What else ");
+        System.out.println("Eldar cannot push the code, shame ");
     }
 
 }
